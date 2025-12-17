@@ -15,6 +15,9 @@ Outfile "${PRODUCT_NAME} v${PRODUCT_VERSION} Setup.exe"
 InstallDir "$APPDATA\Wordspire_by_merajcode"
 RequestExecutionLevel user
 
+Icon "icon.ico"
+UninstallIcon "icon.ico"
+
 Page directory
 Page instfiles
 

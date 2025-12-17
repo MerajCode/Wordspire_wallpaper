@@ -7,7 +7,6 @@ a = Analysis(
     binaries=[],
     datas=[
         ('controller.py', '.'),
-        ('all_service.py', '.'),
         ('background_service.py', '.'),
         ('fetch_data.py', '.'),
         ('generate_wallpaper.py', '.'),
